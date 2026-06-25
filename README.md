@@ -58,6 +58,40 @@ const fabio = {
 
 </div>
 
+## 🏆 Conquistas
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="70" alt="Pair Extraordinaire"/>
+      <br/><br/>
+      <b>Pair Extraordinaire</b>
+      <br/>
+      <img src="https://img.shields.io/badge/x3-6C63FF?style=for-the-badge" alt="x3"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Pull Shark"/>
+      <br/><br/>
+      <b>Pull Shark</b>
+      <br/>
+      <img src="https://img.shields.io/badge/x2-1572B6?style=for-the-badge" alt="x2"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## ✨ Destaques
+
+<div align="center">
+
+![Developer Program Member](https://img.shields.io/badge/Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pro](https://img.shields.io/badge/GitHub-Pro-6C63FF?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
 ## 📊 Estatísticas
 
 <div align="center">
