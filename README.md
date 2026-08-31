@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Ol%C3%A1%2C+eu+sou+o+F%C3%A1bio+San+%F0%9F%91%8B;UI%2FUX+Designer+%26+Front-end+Dev;Criando+experi%C3%AAncias+que+encantam+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&height=70&lines=Ol%C3%A1%2C+eu+sou+o+F%C3%A1bio+San+%F0%9F%91%8B;AI+Engineer+%26+Full-Stack+Developer;Construindo+Agentes+de+IA+%26+Interfaces+Modernas+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://SEU_SITE.com"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:faabioo201415@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<br/>
+<a href="https://github.com/fabiohsan-dev?tab=repositories"><img src="https://img.shields.io/badge/Projetos-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"/></a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=fabiohsan-dev&color=6C63FF&style=flat-square&label=Visitas+no+perfil" alt="Profile Views"/>
 
 </div>
@@ -17,39 +17,56 @@
 
 ## 🧠 Sobre mim
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=fabiohsan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=340" alt="GitHub Stats"/>
-
 ```javascript
 const fabio = {
-  nome:    "Fábio San",
-  foco:    ["UI/UX Design", "Front-end Dev"],
-  stack:   ["React", "Next.js", "Figma"],
-  paixao:  "Transformar ideias em interfaces",
-  status:  "Sempre aprendendo 🚀",
+  nome:    "Fábio Henrique",
+  foco:    ["AI Agents & LLMs", "Back-end Engineering", "Front-end & UI/UX"],
+  stack:   ["Python", "LangGraph", "FastAPI", "PostgreSQL", "React", "Next.js"],
+  paixao:  "Construir sistemas autônomos e experiências digitais escaláveis",
+  status:  "Sempre aprendendo e construindo 🚀",
 };
 ```
 
-- 🎨 **UI/UX Designer** apaixonado por boas experiências visuais
-- ⚡ **Front-end Dev** com foco em React e Next.js
-- 🌱 Sempre explorando novas tecnologias e design systems
-- 💡 Acredito que design e código andam lado a lado
+- 🤖 **Engenharia de IA & Agentes:** Desenvolvimento de agentes autônomos com **LangGraph**, **FastAPI** e **Supabase**.
+- ⚡ **Full-Stack:** Experiência prática com **Python**, **JavaScript/TypeScript**, **React** e **Next.js**.
+- 🛠️ **DevOps & Infra:** Conteinerização com **Docker**, cache em **Redis** e deploy com **Traefik**.
+- 🎨 **Design & Produto:** Forte senso estético e experiência em **UI/UX**.
 
-<br clear="right"/>
+---
+
+## 🚀 Projeto em Destaque
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🤖 <a href="https://github.com/fabiohsan-dev/agente-sdr">agente-sdr</a></h3>
+      <p>Agente SDR autônomo e determinístico com máquina de estados finitos (FSM) no <b>LangGraph</b>, qualificação comercial consultiva em 7 etapas, persistência relacional no <b>Supabase</b>, integração com <b>Cal.com</b> e observabilidade com <b>Langfuse</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,7 +75,9 @@ const fabio = {
 
 </div>
 
-## 🏆 Conquistas
+---
+
+## 🏆 Conquistas & Destaques
 
 <div align="center">
 
@@ -81,27 +100,28 @@ const fabio = {
   </tr>
 </table>
 
-</div>
-
-## ✨ Destaques
-
-<div align="center">
+<br/>
 
 ![Developer Program Member](https://img.shields.io/badge/Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pro](https://img.shields.io/badge/GitHub-Pro-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
+---
+
 ## 📊 Estatísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiohsan-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiohsan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabiohsan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabiohsan-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://streak-stats.demolab.com?user=fabiohsan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
-## 🐍 Minhas contribuições
+---
+
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -111,12 +131,8 @@ const fabio = {
   <img alt="Snake animation" src="https://raw.githubusercontent.com/fabiohsan-dev/fabiohsan-dev/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-*"Design é inteligência tornada visível."* ✨
+*"Construindo o futuro com código, design e inteligência artificial."* 🚀
 
 </div>
