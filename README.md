@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&height=70&lines=Ol%C3%A1%2C+eu+sou+o+F%C3%A1bio+San+%F0%9F%91%8B;AI+Engineer+%26+Full-Stack+Developer;Construindo+Agentes+de+IA+%26+Interfaces+Modernas+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&height=90&lines=Ola%2C+eu+sou+o+Fabio+San;Designer+de+origem+%7C+Construtor+de+produtos+digitais;Transformando+ideias+em+experiencias%2C+sistemas+e+IA" alt="Typing SVG" />
 
 <br/>
 
 <a href="mailto:faabioo201415@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/fabiohsan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://fhsan.com.br/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/fabiohsan-dev?tab=repositories"><img src="https://img.shields.io/badge/Projetos-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"/></a>
 
 <br/><br/>
@@ -15,69 +17,82 @@
 
 <br/>
 
-## 🧠 Sobre mim
+## Sobre mim
 
-```javascript
-const fabio = {
-  nome:    "Fábio Henrique",
-  foco:    ["AI Agents & LLMs", "Back-end Engineering", "Front-end & UI/UX"],
-  stack:   ["Python", "LangGraph", "FastAPI", "PostgreSQL", "React", "Next.js"],
-  paixao:  "Construir sistemas autônomos e experiências digitais escaláveis",
-  status:  "Sempre aprendendo e construindo 🚀",
-};
-```
+Sou designer de origem, com formacao em **Design Grafico** e **MBA em Marketing Digital e Branding**. Minha trajetoria comecou com **motion design, identidade visual e comunicacao de marcas**, evoluindo para **UI/UX, web design e produto digital**.
 
-- 🤖 **Engenharia de IA & Agentes:** Desenvolvimento de agentes autônomos com **LangGraph**, **FastAPI** e **Supabase**.
-- ⚡ **Full-Stack:** Experiência prática com **Python**, **JavaScript/TypeScript**, **React** e **Next.js**.
-- 🛠️ **DevOps & Infra:** Conteinerização com **Docker**, cache em **Redis** e deploy com **Traefik**.
-- 🎨 **Design & Produto:** Forte senso estético e experiência em **UI/UX**.
+Hoje tambem estou cursando **Tecnico em Desenvolvimento de Sistemas** e **Tecnologo em Analise e Desenvolvimento de Sistemas**. Uso essa base tecnica para transformar conceitos visuais em interfaces, aplicacoes, automacoes e agentes de IA funcionais.
 
----
+Meu diferencial esta em unir visao estetica, entendimento de usuario e negocio, prototipacao, codigo e inteligencia artificial aplicada.
 
-## 🚀 Projeto em Destaque
+## Como trabalho
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🤖 <a href="https://github.com/fabiohsan-dev/agente-sdr">agente-sdr</a></h3>
-      <p>Agente SDR autônomo e determinístico com máquina de estados finitos (FSM) no <b>LangGraph</b>, qualificação comercial consultiva em 7 etapas, persistência relacional no <b>Supabase</b>, integração com <b>Cal.com</b> e observabilidade com <b>Langfuse</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+Parto do problema e da experiencia desejada, estruturo a solucao visual, valido o fluxo e, quando necessario, tambem desenvolvo a interface, a API, as integracoes e as automacoes. Nao vejo design e tecnologia como areas separadas: o design orienta a solucao e o codigo permite leva-la ate a producao.
+
+## Areas de atuacao
+
+- **Design e Branding:** identidade visual, direcao visual, motion design e comunicacao.
+- **UI/UX e Produto:** wireframes, prototipos, interfaces e fluxos centrados no usuario.
+- **Desenvolvimento:** React, TypeScript, Python, FastAPI, Next.js e PostgreSQL.
+- **IA e Automacao:** agentes com LangGraph, MCP, n8n, APIs e automacoes.
+- **Infraestrutura:** Docker, Redis, Traefik, deploy e observabilidade.
 
 ---
 
-## 🛠️ Tech Stack
+## Projetos em destaque
 
-<div align="center">
+### [Portfolio2026](https://github.com/fabiohsan-dev/Portfolio2026)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Portfolio visual interativo para apresentar estudos de modelagem, prototipagem, CAD, escultura digital e pesquisa 3D, com navegacao editorial e experiencias multimidia.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+`React` `TypeScript` `Vite` `Framer Motion` `Supabase`
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### [agente-sdr](https://github.com/fabiohsan-dev/agente-sdr)
 
-</div>
+Agente SDR autonomo e deterministico com maquina de estados finitos, qualificacao comercial consultiva, persistencia relacional, integracoes e observabilidade.
+
+`Python` `LangGraph` `FastAPI` `Supabase` `PostgreSQL` `Docker`
+
+### [mcp-vista-loft](https://github.com/fabiohsan-dev/mcp-vista-loft)
+
+Servidor MCP para integrar agentes de IA a um CRM imobiliario, com ferramentas de busca, leads, pipeline, agenda, validacao de dados e tratamento seguro de erros.
+
+`TypeScript` `Node.js` `MCP SDK` `Zod` `Vitest`
 
 ---
 
-## 🏆 Conquistas & Destaques
+## Stack
+
+### Design e Produto
+
+`Figma` `Adobe` `UI/UX` `Branding` `Motion Design`
+
+### Front-end
+
+`JavaScript` `TypeScript` `React` `Next.js` `Vite` `Tailwind CSS` `Framer Motion`
+
+### Back-end, dados e IA
+
+`Python` `FastAPI` `Node.js` `PostgreSQL` `Supabase` `LangGraph` `LangChain` `MCP` `OpenAI` `Anthropic` `n8n`
+
+### Infraestrutura e qualidade
+
+`Docker` `Redis` `Traefik` `GitHub Actions` `Pytest` `Ruff` `Mypy` `Vitest` `Vercel`
+
+> Full-stack e uma capacidade que uso para dar vida as solucoes; minha identidade profissional nasce do design, do produto e da experiencia do usuario.
+
+---
+
+## Formacao
+
+- **Tecnologo em Analise e Desenvolvimento de Sistemas** - em andamento
+- **Tecnico em Desenvolvimento de Sistemas** - em andamento
+- **MBA em Marketing Digital e Branding** - concluido
+- **Design Grafico** - concluido
+
+---
+
+## Conquistas & Destaques
 
 <div align="center">
 
@@ -109,7 +124,7 @@ const fabio = {
 
 ---
 
-## 📊 Estatísticas
+## Estatisticas
 
 <div align="center">
 
@@ -121,7 +136,7 @@ const fabio = {
 
 ---
 
-## 🐍 Contribuições
+## Contribuicoes
 
 <div align="center">
 
@@ -133,6 +148,6 @@ const fabio = {
 
 <br/><br/>
 
-*"Construindo o futuro com código, design e inteligência artificial."* 🚀
+*"Do conceito a experiencia: design para orientar, codigo para construir e IA para ampliar."*
 
 </div>
